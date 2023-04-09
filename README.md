@@ -1,6 +1,6 @@
 # SoC-Estimation using FNN Model
 
-##Intro
+## Intro
 
 We explored the use of DL Model to estimate SoC and found it to give results of better accuracy than traditional approaches like Kalmann Filter, Coulomb counting and SoC - OCV Curves used widely.
 
